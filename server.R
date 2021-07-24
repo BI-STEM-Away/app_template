@@ -20,5 +20,9 @@ function(input,output,session){
     updateTabItems(session, "tabs", "functionalAnalysis")
   }
   )
-
+  
+  output$resNumCheck <- reactive({
+    funcEven(input$numCheck) 
+  })
+  
 }

@@ -12,3 +12,6 @@ library(DT)
 library(sortable)
 library(dplyr)
 
+#Import Functions from External R scripts.
+
+source("functions/testFunction.R", local = TRUE)$value
