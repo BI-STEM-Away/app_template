@@ -1,2 +1,2 @@
 # app_template
-This is a template made by @samuelbharti defining directory structures, file organization and some basic functions with comments.
+This is a template developed by @samuelbharti defining directory structures, file organization and some basic functions with comments.
